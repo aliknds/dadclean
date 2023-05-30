@@ -1,6 +1,6 @@
 # dadclean
 
-The idea of **dadclean** (Drag-and-Drop Cleaning) is to make a UI based program (that will run on Windows/Linux/Mac) to reduce the data cleaning part of the job based on common patterns that can be found in specific .csv files that should be cleared. 
+The idea of **dadclean** (Drag-and-Drop Cleaning) is to make a UI based program (that will run on Windows/Linux/Mac) to reduce the work of data scientist. 
 
 For example, you have a .xslx file that have a ton of sub .xslx files into it and you should be able to extract those .xslx files separately (if you want to work with them as .csv files). This kind of job has to be done if there is a necessity in visualizing them as internal Excel based capabilities are limited compared to what Python matplotlib.pyplot offers. In this case, you can use **dadclean**, which will offer the features to work with your data and clean them in seconds according to your wishes.
 
