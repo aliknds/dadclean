@@ -9,4 +9,4 @@ Also, program should be able to handle .csv files in variety of languages and tr
 # UI
 ![image](https://github.com/aliknds/dadclean/assets/132540921/6214feed-1999-400a-9cba-06f702a98259)
 
-**dadclean** uses [tkinter](https://docs.python.org/3/library/tkinter.html#module-tkinter) as its UI library. Also, there should be web interface in the future that will be able to run in localhost and cloud.
+**dadclean** uses [tkinter](https://docs.python.org/3/library/tkinter.html#module-tkinter) as its UI library. Also, there should be web interface in the future that will be able to run in localhost or cloud.
