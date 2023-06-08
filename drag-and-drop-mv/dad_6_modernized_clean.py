@@ -94,11 +94,11 @@ def save_file(dataframe):
 
 # Create the main window
 window = tk.Tk()
-window.title("CSV File Selection")
+window.title("CSV Borgotsoi File Exploration")
 window.geometry("400x200")
 
 # Create a label
-label = tk.Label(window, text="Select a CSV file or drag and drop here:")
+label = tk.Label(window, text="Select a CSV file related to Borgotsoi or drag and drop here:")
 label.pack(pady=20)
 
 # Create a button to browse and select a file
